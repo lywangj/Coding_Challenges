@@ -1,4 +1,5 @@
 
 
-- 01_max_area_of_Islands
-- 02_KthLargest_Element
+- 01 Max Area of Islands
+- 02 KthLargest Element in a stream
+- 03 Copy List with Random Pointer
