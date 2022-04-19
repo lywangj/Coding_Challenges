@@ -1,11 +1,7 @@
 
 # Coding Challenges
 
-
-
-Programming Language: C++
-
-
+Language: C++
 
 | No.  | Challenges                      |                       Key Features             | First update date |
 | :--: | :------------------------------ |:-----------------------------------------------|------------------:|
