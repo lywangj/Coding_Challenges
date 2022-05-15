@@ -1,36 +1,43 @@
-# 06 Partition Equal Subset Sum
+# 07 Intersection of Two Arrays
 
 (To be updated)
 
-A binary tree with values on every nodes and an integer are given.
+With Two given integer arrays, return a array with either their intersections or differ
 
 A root is a the first node in the tree, and a leaf is a node with no children.
 
-- Input: nums = [1,5,11,5]
-- Output: Yes, this array can be partitioned into two subsets with equal sums.
-- Explanation: The array can be partitioned as [1, 5, 5] and [11].
+- Input: nums1 = [1,2,2,1], nums2 = [2,2]
+- Output: 
+    - Intersection: [2,2]
+    - Difference: [1,1], []
 
 Task:
-- allow user to input a integer (larger than 0) as n.
-- generate a series of strings, each contains n valid parentheses but with different order.
-- if not, request user to input integer, trying to find a way
+- generate new arrays with the intersections and differences of twn given arrays
+    - return one array for intersection of nums1 and nums2
+    - return two array for differences in both nums1 and nums2
+- considering the given arrays are sorted or un-sorted.
 
 Solutions:
 - C++
-- dynamic programming
-- 0/1 knapsack
-- memoization
 - unique set
+- hash map
+- binary search
 
-Time complexity: O()
-- for 
-- n as the number of parentheses generated in a string
+For intersecton :
+- N as the number of integers in each array
+Min O with hash map
+Time complexity: O(2N)
+Space complexity: O(N)
 
-Space complexity: O(4^n / n^0.5)
+For difference : 
+- N as the number of integers in each array
+Min O with binary search
+Time complexity: O(2N+2NlogN) for difference
+Space complexity: O(1)
 
 Constraints:
-- 1 <= nums.length <= 200
-- 1 <= nums[i] <= 100
+- 1 <= nums.length <= 1000
+- 0 <= nums[i] <= 1000
 
 
 
