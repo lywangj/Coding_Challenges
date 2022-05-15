@@ -25,15 +25,15 @@ Solutions:
 
 For intersecton :
 - N as the number of integers in each array
-Min O with hash map
-Time complexity: O(2N)
-Space complexity: O(N)
+- Min O with hash map
+    - Time complexity: O(2N)
+    - Space complexity: O(N)
 
 For difference : 
 - N as the number of integers in each array
-Min O with binary search
-Time complexity: O(2N+2NlogN) for difference
-Space complexity: O(1)
+- Min O with binary search
+    - Time complexity: O(2N+2NlogN)
+    - Space complexity: O(1)
 
 Constraints:
 - 1 <= nums.length <= 1000
