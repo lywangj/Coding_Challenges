@@ -13,3 +13,4 @@ Language: C++
 |  06  | Partition Equal Subset Sum      | Dynamic programming, 0/1 knapsack, read file   | 23rd Apr 2022     |
 |  07  | Intersection of Two Arrays      | Hashmap, Unique set, binary search             | 15th May 2022     |
 |  08  | Find K Closest Elements         | Binary search, priority queue, max heap        | 20th May 2022     |
+|  09  |                                 |                                                |                   |
