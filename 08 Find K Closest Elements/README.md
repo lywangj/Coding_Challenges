@@ -11,7 +11,7 @@ Given an integer array sorted in ascending order.
 
 Task:
 - try to find more then one soultions
-- 
+- find the solution with the lowest time complexity
 
 Solutions:
 - C++
