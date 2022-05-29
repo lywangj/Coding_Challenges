@@ -7,7 +7,7 @@ Given a binary tree with root*,
 return the root* of its inverted tree (left and right reversed)
 
 * root is for a binary tree node
-<img src="images/2022-05-29_002157.png" align="left" height="200">
+<img src="images/2022-05-29_002157.png" height="200">
 
 - Input: root = [1,3,4,2,5,6,7]
 - Output: root = [1,4,3,7,6,5,2]
