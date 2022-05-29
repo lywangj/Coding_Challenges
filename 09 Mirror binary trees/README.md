@@ -7,9 +7,7 @@ Given a binary tree with root*,
 return the root* of its inverted tree (left and right reversed)
 
 * root is for a binary tree node
-<p>
-<a href="url"><img src="images/2022-05-29_002157.png" align="left" height="200"></a>
-</p>
+<img src="images/2022-05-29_002157.png" align="left" height="200">
 
 - Input: root = [1,3,4,2,5,6,7]
 - Output: root = [1,4,3,7,6,5,2]
@@ -39,6 +37,7 @@ Constraints:
 Given a binary tree with root,
 
 check whether it is symmetric around its center (mirror binary tree)
+<a href="url"><img src="images/2022-05-29_002157.png" align="left" height="200"></a>
 ![binary tree](images/2022-05-29_002158.png)
 - Input: root = [1,3,3,2,5,5,2]
 - Output: true
