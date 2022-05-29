@@ -11,4 +11,6 @@ Language: C++
 |  04  | Find All Paths for a Sum        | Depth-first Search, Recursion, Iteration       | 19th Apr 2022     |
 |  05  | Generate Parentheses            | Backtracking, Recursion, Cin                   | 21st Apr 2022     |
 |  06  | Partition Equal Subset Sum      | Dynamic programming, 0/1 knapsack, read file   | 23rd Apr 2022     |
-|  07  | Intersection of Two Arrays      | Hashmap, Unique set, binary search             | 23rd Apr 2022     |
+|  07  | Intersection of Two Arrays      | Hashmap, Unique set, binary search             | 15th May 2022     |
+|  08  | Find K Closest Elements         | Binary search, priority queue, max heap        | 20th May 2022     |
+|  09  | Mirror Binary Tree              | Depth-first Search, Recursion                  | 26th May 2022     |
