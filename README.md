@@ -16,4 +16,4 @@ Language: C++
 |  09  |:green_circle:| Mirror Binary Tree                        | Depth-first Search, Recursion                  | 26th May 2022     |
 |  10  |:orange_circle:| Longest Substring wo Repeating Characters | Hashmap, Dictionary, Cin                       | 31st May 2022     |
 
-:green_circle: **: easy**  /t 	:orange_circle: **: medium**  /t 	:red_circle: **: hard**
+:green_circle: **: easy**   	:orange_circle: **: medium**       	:red_circle: **: hard**
