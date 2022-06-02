@@ -1,60 +1,38 @@
-# Mirror Binary Trees
+# Longest Substring wo Repeating Characters
 
-### Case1. Invert Binary Tree
+Allow user to input a string, which consists of English letters, digits, symbols and spaces.
 
-Given a binary tree with root*,
+find the length of the longest substring without repeating characters
 
-return the root* of its inverted tree (left and right reversed)
-
-* root is for a binary tree node
-![binary tree](images/2022-05-29_002157.png)
-- Input: root = [1,3,4,2,5,6,7]
-- Output: root = [1,4,3,7,6,5,2]
+- Input string = "bbabcabcdd"
+- Output: 4
+- explain: the longest substring w/o repeating characters is "abcd", and the length is 4.
 
 Task:
-- try to find the inverted binary tree with the new root*
-- condidering the cases for null tree, or perfect/complete binary tree
+- try to find the efficient solutions (considering either time complexity and space complexity)
 
 Solutions:
 - C++
-- depth-first search
-- recursion
+- Hashmap
+- Dictionary
+
+### Solution1. Hashmap 
+use Hashmap to trace the start point of substring
 
 Time complexity: O(n)
-- n as the number of binary tree nodes
+- n as the length of input string 
 
-Space complexity: O(1)
-- no extra space
-
-Constraints:
-- 0 <= number of tree nodes <= 100
-- -100 <= node.val <= 100
+Space complexity: O(n)
 
 #
-### Case2. Symmetric Tree
-
-Given a binary tree with root,
-
-check whether it is symmetric around its center (mirror binary tree)
-![binary tree](images/2022-05-29_002158.png)
-- Input: root = [1,3,3,2,5,5,2]
-- Output: true
-
-Task:
-- return true if the given tree is symmetric
-- condidering the cases for perfect/complete binary tree
-
-Solutions:
-- C++
-- depth-first search
-- recursion
+### Solution2. Dictionary
+setup an integer array as dictionary to store all the unrepeating characters in the given string
 
 Time complexity: O(n)
-- n as the number of binary tree nodes
+- n as the length of input string 
 
-Space complexity: O(1)
-- no extra space
+Space complexity: O(n)
+- n as the length of dictionary (storing max. 256 types of characters)
 
 Constraints:
-- 0 <= number of tree nodes <= 100
-- -100 <= node.val <= 100
+- 0 <= string.length <= 10000
