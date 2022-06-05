@@ -15,7 +15,8 @@ Language: C++
 |  08  |:orange_circle:| Find K Closest Elements                   | Binary search, priority queue, max heap        | 20th May 2022     |
 |  09  |:green_circle:| Mirror Binary Tree                        | Depth-first Search, Recursion                  | 26th May 2022     |
 |  10  |:orange_circle:| Longest Substring wo Repeating Characters | Hashmap, Dictionary, Cin                       | 31st May 2022     |
-|  11  |    |                                           |                              |            |
-|  12  |    |                                           |                              |            |
+|  11  |:orange_circle:| Course Schedule                           | Graph, Topological sort, Breadth-first search   | 5th Jun 2022     |
+|  ~~  |    | To be continue...                                          |                              |            |
 
+Difficulty level on Leetcode
 :green_circle: **: easy ,**   	:orange_circle: **: medium ,**       	:red_circle: **: hard**
