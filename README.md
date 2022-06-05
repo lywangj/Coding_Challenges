@@ -10,14 +10,12 @@ Language: C++
 |  03  |:orange_circle:| Copy List with Random Pointer             | Linked List, Hashmap                           | 17th Apr 2022     |
 |  04  |:green_circle:| Find All Paths for a Sum                  | Depth-first Search, Recursion, Iteration       | 19th Apr 2022     |
 |  05  |:orange_circle:| Generate Parentheses                      | Backtracking, Recursion, Cin                   | 21st Apr 2022     |
-|  06  |:orange_circle:| Partition Equal Subset Sum                | Dynamic programming, 0/1 knapsack, read file   | 23rd Apr 2022     |
+|  06  |:red_circle:| Partition Equal Subset Sum                | Dynamic programming, 0/1 knapsack, read file   | 23rd Apr 2022     |
 |  07  |:green_circle:| Intersection of Two Arrays                | Hashmap, Unique set, binary search             | 15th May 2022     |
 |  08  |:orange_circle:| Find K Closest Elements                   | Binary search, priority queue, max heap        | 20th May 2022     |
 |  09  |:green_circle:| Mirror Binary Tree                        | Depth-first Search, Recursion                  | 26th May 2022     |
 |  10  |:orange_circle:| Longest Substring wo Repeating Characters | Hashmap, Dictionary, Cin                       | 31st May 2022     |
-|  11  |:orange_circle:| Course Schedule                           | Graph, Topological sort, Breadth-first search   | 5th Jun 2022     |
+|  11  |:red_circle:| Course Schedule                           | Graph, Topological sort, Breadth-first search   | 5th Jun 2022     |
 |  ~~  |    | To be continue...                                          |                              |            |
-
-Difficulty level on Leetcode
 
 :green_circle: **: easy ,**   	:orange_circle: **: medium ,**       	:red_circle: **: hard**
